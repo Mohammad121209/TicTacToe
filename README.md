@@ -1,0 +1,1 @@
+This game is a classic Tic-Tac-Toe with an AI opponent that challenges your strategy. Play by placing your X or O on a 3x3 grid, and try to win by getting three in a row. The AI adapts to your moves, making each game feel different. Whether you're playing casually or aiming to beat the AI at its best, it's a fun and simple way to test your skills
